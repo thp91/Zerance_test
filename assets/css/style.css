@@ -371,6 +371,7 @@ header{
     transition: left 0.5s ease;
     border-left: 3px solid #ffcd1a;
     display: none;
+    z-index: 999999;
   }
   
   .sidenav ul {
